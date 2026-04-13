@@ -1,0 +1,9 @@
+{
+  "name": "dart-lsp",
+  "description": "Dart/Flutter language server plugin for Claude",
+  "version": "1.0.0",
+  "author": {
+    "name": "OliverRhyme"
+  },
+  "lspServers": "./.lsp.json"
+}
