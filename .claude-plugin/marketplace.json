@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "dart-lsp",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "apollo-com-ph/claude-dart-lsp"
+      },
       "description": "Dart/Flutter language server plugin providing code intelligence for .dart files",
       "version": "1.0.0",
       "author": {
