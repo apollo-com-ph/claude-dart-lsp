@@ -1,0 +1,25 @@
+{
+  "name": "apollo-dart-lsp",
+  "owner": {
+    "name": "OliverRhyme"
+  },
+  "metadata": {
+    "description": "Dart/Flutter language server plugin for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dart-lsp",
+      "source": ".",
+      "description": "Dart/Flutter language server plugin providing code intelligence for .dart files",
+      "version": "1.0.0",
+      "author": {
+        "name": "OliverRhyme"
+      },
+      "repository": "https://github.com/apollo-com-ph/claude-dart-lsp",
+      "license": "MIT",
+      "keywords": ["dart", "flutter", "lsp", "language-server"],
+      "category": "language-support"
+    }
+  ]
+}
